@@ -1,4 +1,4 @@
-"""student's name:Hrushikesh Ubale
+"""student name:Hrushikesh Ubale
 """
 
 import cv2
