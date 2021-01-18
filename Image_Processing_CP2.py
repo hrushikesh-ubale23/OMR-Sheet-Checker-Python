@@ -1,5 +1,4 @@
 """student's name:Hrushikesh Ubale
-GR No.: 11910691 , Roll no.:23 ,Div:IC-C
 """
 
 import cv2
