@@ -1,4 +1,4 @@
-# OMR_sheet_Checker
+# OMRChecker:using python
 OMR sheet checking using OpenCV.
 
 This project is created in python.
